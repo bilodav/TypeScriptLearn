@@ -1,0 +1,18 @@
+"use strict";
+exports.__esModule = true;
+var message = "Welcome Back ";
+console.log(message);
+var x = 10;
+var y = 20;
+var sum;
+sum = x + y;
+console.log(sum);
+var isBeginner = true;
+var total = 0;
+var name = "Bilo";
+var sentence = "My name is ".concat(name, "\n I am learning TS\n");
+console.log(sentence);
+var n = null;
+var u = undefined;
+var isNew = null;
+var myName = undefined;
